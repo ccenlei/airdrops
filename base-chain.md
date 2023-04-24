@@ -20,7 +20,7 @@
 * 合约部署完成后，复制合约name（比如symbol）下面的地址（address）。去[quest](https://quests.base.org)页面connect钱包 $\color{#FF0000}{（这里可能是防女巫，现在需要手机metamask钱包扫码链接）}$ 点击 [Start Quest] 按钮一路 [continue] 最后在 [Smart contract address] 输入框内粘贴复制好的合约地址。点解 [VERIFY TRANSACTION]按钮一路 [continue] 跳转到NFT页面点击 [MINT NFT] 按钮，等手机钱包跳出签名按钮点击确认即可。
 
 ### 任务4：Base 测试链部署 TOKEN 合约交互
-* 钱包切换 $\color{#0000FF}{Base}$ 测试链。打开[在线合约](remix.ethereum.org/)编辑网站，在左边default_workspace工程下的contracts目录下新建token合约文件_Token_airdrop.sol并将[base_chain_files](https://github.com/ccenlei/airdrops/tree/main/base_chain_files)目录下同名的文件的代码拷贝进去。
+* 钱包切换 $\color{#0000FF}{Base}$ 测试链。打开[在线合约](https://remix.ethereum.org/)编辑网站，在左边default_workspace工程下的contracts目录下新建token合约文件_Token_airdrop.sol并将[base_chain_files](https://github.com/ccenlei/airdrops/tree/main/base_chain_files)目录下同名的文件的代码拷贝进去。
 * 点击remix左侧栏第四个 [Solidity compiler] 按钮部署合约。
 * 点击remix左侧栏第五个 [Deploy & run transactions] 按钮运行合约，Environment框选择 [Injected Provider - Metamask] 连接钱包，在account栏确认地址和余额是否正确。点击 [Deploy] 按钮并在钱包跳出的弹框里点确认即可。
 
