@@ -24,7 +24,12 @@
 * 点击remix左侧栏第四个 [Solidity compiler] 按钮部署合约。
 * 点击remix左侧栏第五个 [Deploy & run transactions] 按钮运行合约，Environment框选择 [Injected Provider - Metamask] 连接钱包，在account栏确认地址和余额是否正确。点击 [Deploy] 按钮并在钱包跳出的弹框里点确认即可。
 
-### 任务4：Base 测试链 Kitten 合约交互
+### 任务5：Base 测试链 Kitten 交互
 * 钱包切换 $\color{#0000FF}{Base}$ 测试链。打开[catattacknft](https://catattacknft.vercel.app/)网站。连接钱包，点击 [Claim Kitten] 按钮，在钱包弹出框点击确认即可。
 * claim 成功后点击 [transfer] 按钮随便选中一个player点击transfer。在钱包弹出框里点击确认。
 * 剩下的玩法自行探索，目标就是刷交互量。
+
+### 任务6：Base 测试链 Cbswap 交互
+* 钱包切换 $\color{#0000FF}{Base}$ 测试链。打开[cbswap](https://app.cbswap.io/#/swap)网站。连接钱包，交互 兑换(swap)功能和流动池(liquidity)功能即可。
+
+### 备注：任务5和任务6可以每天或每n天交互n次，刷transactions交易量。
