@@ -1,0 +1,2 @@
+# airdrops
+airdrops detail
