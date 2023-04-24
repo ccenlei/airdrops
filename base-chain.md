@@ -15,8 +15,8 @@
 * 钱包切换 $\color{#0000FF}{Goerli}$ 测试链。去[quicknode](https://faucet.quicknode.com/drip)领水。
 * 去[官方桥](https://bridge.base.org/deposit)。输入 $\color{#0000FF}{Goerli}$ 测试链一半的eth后点击 [DEPOSIT ETH] 按钮。钱包切换 $\color{#0000FF}{Base}$ 测试链等ETH到账后，再在官方桥点Withdraw标签页，输入一半的ETH后点击 [WITHDRAW] 按钮。
 
-### 任务3：Base 测试链 NFT 任务交互
+### 任务3：Base 测试链部署 NFT 任务交互
 * 钱包切换 $\color{#0000FF}{Base}$ 测试链。去[thirdweb](https://thirdweb.com/thirdweb.eth/DropERC721)部署合约，打开页面后点击右边 [Deploy now] 按钮，在跳出来的弹框里的name输入框里随便输入一个name（比如symbol）即可，页面滑动到最下面点击 [Deploy Now] 按钮，等钱包跳出弹框（2次）点击确认。等待合约部署完成。
 * 合约部署完成后，复制合约name（比如symbol）下面的地址（address）。去[quest](https://quests.base.org)页面connect钱包 $\color{#FF0000}{（这里可能是防女巫，现在需要手机metamask钱包扫码链接）}$ 点击 [Start Quest] 按钮一路 [continue] 最后在 [Smart contract address] 输入框内粘贴复制好的合约地址。点解 [VERIFY TRANSACTION]按钮即可。
 
-### 任务4：部署合约交互
+### 任务4：部署 TOKEN 合约交互
